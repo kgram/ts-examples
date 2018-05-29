@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "target": "es6",
+        "jsx": "react",
+
+        "strict": true,
+        "declaration": true,
+        "experimentalDecorators": true,
+        "noUnusedLocals": false,
+        "moduleResolution": "node",
+
+        "lib": [
+            "dom",
+            "es5",
+            "es2015",
+            "es2017",
+            "dom.iterable",
+            "scripthost"
+        ]
+    },
+    "include": [
+        "./src/**/*",
+    ]
+}

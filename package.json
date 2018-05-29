@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@types/react": "^16.3.14",
+    "@types/react-redux": "^6.0.0",
+    "@types/redux-actions": "^2.3.0",
+    "react": "^16.4.0",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-actions": "^2.4.0",
+    "styled-components": "^3.3.0",
+    "typescript": "^2.8.3"
+  }
+}
